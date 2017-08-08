@@ -5,10 +5,10 @@
   "main": "app.js",
   "dependencies": {
     "body-parser": "1.17.2",
+    "chalk": "2.1.0",
     "config": "1.26.1",
     "express": "4.15.4",
     "morgan": "1.8.2",
-<<<<<<< HEAD
     "nodemailer": "4.0.1",
     "nodemon": "1.11.0"
   },
@@ -26,8 +26,4 @@
     "url": "https://github.com/spolat/node-mailer/issues"
   },
   "homepage": "https://github.com/spolat/node-mailer#readme"
-=======
-    "nodemailer": "4.0.1"
-  }
->>>>>>> 21b5929e848a5c0232c51773a0ab81b5befee519
 }

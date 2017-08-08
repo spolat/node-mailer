@@ -2,12 +2,7 @@
   "name": "mailer",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "main": "app.js",
   "dependencies": {
     "body-parser": "1.17.2",
     "chalk": "2.1.0",
@@ -16,5 +11,19 @@
     "morgan": "1.8.2",
     "nodemailer": "4.0.1",
     "nodemon": "1.11.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spolat/node-mailer.git"
+  },
+  "author": "Suat POLAT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spolat/node-mailer/issues"
+  },
+  "homepage": "https://github.com/spolat/node-mailer#readme"
 }

@@ -1,0 +1,7 @@
+{
+    "email": "Here is your email adress",
+    "passwd": "Here is your password",
+    "name": "Node Mailer Example",
+    "PORT": 8080,
+    "base_url": "http: //localhost:8080"
+}
